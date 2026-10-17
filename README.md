@@ -12,7 +12,39 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dayoadebamiro/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/adebam?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://medium.com/@adebam"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium articles" /></a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🪨 Geological Rock Classification | Computer Vision & ML Deployment
+
+Built an end-to-end geological image classifier with **ConvNeXt / PyTorch**, confidence-aware predictions, a **FastAPI** backend, and a **Streamlit** user interface deployed on AWS.
+
+[![Try Rock Classifier](https://img.shields.io/badge/TRY_LIVE_APP-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](http://3.217.190.12:8501/)
+[![View Source](https://img.shields.io/badge/VIEW_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adebam/Rock_Classification)
+
+**Stack:** `PyTorch` `ConvNeXt` `FastAPI` `Streamlit` `AWS`
+
+### 📈 Volve Production Analytics | Interactive Data Application
+
+Built a production analytics application featuring **well comparisons, production trends, decline-curve analysis, 15-year forecasts, and EUR estimates**.
+
+[![Try Volve Dashboard](https://img.shields.io/badge/TRY_LIVE_APP-Volve_Dashboard-0E7490?style=for-the-badge)](https://volve-project-vis1.onrender.com/)
+[![View Source](https://img.shields.io/badge/VIEW_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adebam/Volve_Project)
+
+**Stack:** `Python` `Pandas` `Plotly` `Dash`
+
+### 🧪 Upworthy A/B Testing | Statistics & Product Analytics
+
+Analyzed headline experiments using **frequentist and Bayesian inference**, statistical power, effect sizes, and multiple-comparison corrections to evaluate whether apparent winners are reliable.
+
+[![View Source](https://img.shields.io/badge/VIEW_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adebam/Upworthy_Project)
+[![Read Case Study](https://img.shields.io/badge/READ_ANALYSIS-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebam/a-b-testing-the-upworthy-archive-when-frequentist-and-bayesian-methods-tell-different-stories-876a48df541c)
+
+**Stack:** `Python` `SciPy` `Frequentist Statistics` `Bayesian Statistics`
 
 ---
 
@@ -29,13 +61,15 @@ My work connects **domain knowledge, machine learning, and deployable applicatio
 
 ---
 
-## 🚀 Featured Projects
+## ✍️ Technical Writing on Medium
 
-| Project | What I Built | Stack |
-|:---|:---|:---|
-| **[Geological Rock Classification](https://github.com/adebam/Rock_Classification)** | An end-to-end computer vision project for geological image classification, including model evaluation, confidence-based prediction filtering, a FastAPI backend, and a Streamlit interface deployed on AWS. | `PyTorch` `ConvNeXt` `FastAPI` `Streamlit` `AWS` |
-| **[Volve Production Analytics](https://github.com/adebam/Volve_Project)** | An interactive petroleum production analytics application featuring well comparisons, decline-curve fitting, production trends, and forecast/EUR analysis. | `Python` `Pandas` `Plotly` `Dash` |
-| **[Upworthy Experimentation & A/B Testing](https://github.com/adebam/Upworthy_Project)** | A statistical experimentation workflow exploring headline engagement with frequentist and Bayesian approaches, effect sizes, power analysis, and multiple-comparison testing. | `Python` `SciPy` `Statistics` `A/B Testing` |
+I write about building and evaluating machine learning solutions, and turning statistical analysis into practical decisions.
+
+- **[Building a Machine-Learning Virtual Flow Meter for the Volve Field](https://medium.com/data-science-collective/building-a-machine-learning-virtual-flow-meter-for-the-volve-field-16f37ad260d7)** — Oil/gas/water estimation, time-series modeling, and what makes a model useful outside validation. *Data Science Collective, August 2026.*
+- **[A Practical Guide to A/B/n Headline Testing with Python Using Frequentist and Bayesian Methods](https://medium.com/@adebam/a-b-testing-the-upworthy-archive-when-frequentist-and-bayesian-methods-tell-different-stories-876a48df541c)** — Hypothesis testing, statistical power, multiple comparisons, and Bayesian decision-making. *June 2026.*
+- **[What Makes a Headline More Clickable? Lessons from the Upworthy A/B Testing Archive](https://medium.com/@adebam/what-makes-a-headline-more-clickable-lessons-from-the-upworthy-a-b-testing-archive-bd6b8f5b35eb)** — Product experimentation and headline engagement across thousands of experiments. *June 2026.*
+
+[![All My Articles](https://img.shields.io/badge/READ_ALL_ARTICLES-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebam)
 
 ---
 
