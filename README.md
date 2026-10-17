@@ -17,6 +17,19 @@
 
 ---
 
+## 👋 About Me
+
+I'm an **engineer and applied machine learning practitioner** with extensive experience solving complex subsurface and energy problems, and a **master's degree in Data Analytics from Georgia Tech**.
+
+My work connects **domain knowledge, machine learning, and deployable applications** — from time-series forecasting and statistical experimentation to computer vision and interactive analytics.
+
+- 🔭 **Building:** Practical machine learning systems and AI-powered technical applications.
+- 🧠 **Focus:** Computer vision, time-series modeling, data products, model evaluation, and cloud deployment.
+- ⚙️ **Background:** Reservoir engineering, subsurface analytics, optimization, and technical decision support.
+- 🎯 **Interested in:** Data Scientist, Applied AI, and ML Engineer roles where I can ship useful solutions.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🪨 Geological Rock Classification | Computer Vision & ML Deployment
@@ -45,19 +58,6 @@ Analyzed headline experiments using **frequentist and Bayesian inference**, stat
 [![Read Case Study](https://img.shields.io/badge/READ_ANALYSIS-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebam/a-b-testing-the-upworthy-archive-when-frequentist-and-bayesian-methods-tell-different-stories-876a48df541c)
 
 **Stack:** `Python` `SciPy` `Frequentist Statistics` `Bayesian Statistics`
-
----
-
-## 👋 About Me
-
-I'm an **engineer and applied machine learning practitioner** with extensive experience solving complex subsurface and energy problems, and a **master's degree in Data Analytics from Georgia Tech**.
-
-My work connects **domain knowledge, machine learning, and deployable applications** — from time-series forecasting and statistical experimentation to computer vision and interactive analytics.
-
-- 🔭 **Building:** Practical machine learning systems and AI-powered technical applications.
-- 🧠 **Focus:** Computer vision, time-series modeling, data products, model evaluation, and cloud deployment.
-- ⚙️ **Background:** Reservoir engineering, subsurface analytics, optimization, and technical decision support.
-- 🎯 **Interested in:** Data Scientist, Applied AI, and ML Engineer roles where I can ship useful solutions.
 
 ---
 
