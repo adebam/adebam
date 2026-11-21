@@ -31,6 +31,22 @@ My work connects **domain knowledge, machine learning, and deployable applicatio
 ---
 
 ## 🚀 Featured Projects
+### 🏭 Predictive Maintenance | Industrial ML & MLOps
+
+Built an end-to-end machine-failure prediction solution covering data engineering, machine learning, inference, monitoring, alerting, and deployment.
+
+- Developed and compared classification models, optimizing the decision threshold using a recall-first strategy. Achieved **90% recall, 67.5% precision, and a 4.54% alert rate** on a 2,642-observation evaluation snapshot.
+- Built a Databricks Lakehouse pipeline using Auto Loader, PySpark, Delta Lake, Unity Catalog, and Lakeflow Jobs.
+- Implemented MLflow model management, batch inference, prediction-performance monitoring, feature-drift detection, and automated alerts.
+- Deployed a Plotly Dash monitoring dashboard on AWS EC2 and a separate FastAPI + Streamlit application for on-demand predictions.
+- Implemented GitHub Actions CI/CD for Dash and Databricks Asset Bundles for DEV deployment.
+
+**Live Applications:**
+- [Batch Monitoring Dashboard](https://pm.adebam.net/)
+- [On-Demand Prediction](https://pm.adebam.net/predict/)
+- [Source Code](https://github.com/adebam/DataBricks_Predictive_Maintenance)
+
+**Technologies:** Python, Databricks, PySpark, Delta Lake, MLflow, Scikit-learn, AWS, GitHub Actions, Plotly Dash, FastAPI, Streamlit.
 
 ### 🪨 Geological Rock Classification | Computer Vision & ML Deployment
 
