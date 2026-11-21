@@ -41,12 +41,10 @@ Built an end-to-end machine-failure prediction solution covering data engineerin
 - Deployed a Plotly Dash monitoring dashboard on AWS EC2 and a separate FastAPI + Streamlit application for on-demand predictions.
 - Implemented GitHub Actions CI/CD for Dash and Databricks Asset Bundles for DEV deployment.
 
-**Live Applications:**
-- [Batch Monitoring Dashboard](https://pm.adebam.net/)
-- [On-Demand Prediction](https://pm.adebam.net/predict/)
-- [Source Code](https://github.com/adebam/DataBricks_Predictive_Maintenance)
+[![Try Live App](https://img.shields.io/badge/TRY_LIVE_APP-Dash_Dashboard-0E7490?style=for-the-badge&logo=plotly&logoColor=white)](https://pm.adebam.net/)
+[![View Source](https://img.shields.io/badge/VIEW_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adebam/DataBricks_Predictive_Maintenance)
 
-**Technologies:** Python, Databricks, PySpark, Delta Lake, MLflow, Scikit-learn, AWS, GitHub Actions, Plotly Dash, FastAPI, Streamlit.
+**Stack:** `Python` `Databricks` `PySpark` `Delta Lake` `MLflow` `Scikit-learn` `AWS` `GitHub Actions` `Plotly Dash` `FastAPI` `Streamlit`
 
 ### 🪨 Geological Rock Classification | Computer Vision & ML Deployment
 
