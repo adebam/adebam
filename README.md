@@ -42,7 +42,7 @@ Built an end-to-end machine-failure prediction solution covering data engineerin
 - Implemented GitHub Actions CI/CD for Dash and Databricks Asset Bundles for DEV deployment.
 
 [![Try Live App Batch](https://img.shields.io/badge/TRY_LIVE_APP-Dash_Dashboard-0E7490?style=for-the-badge&logo=plotly&logoColor=white)](https://pm.adebam.net/)
-[![Try Live App On demand](https://img.shields.io/badge/TRY_LIVE_APP-Dash_Dashboard-0E7490?style=for-the-badge&logo=plotly&logoColor=white)](https://pm.adebam.net/predict/)
+[![Try Live App On demand](https://img.shields.io/badge/TRY_LIVE_ON DEMAND-0E7490?style=for-the-badge&logo=plotly&logoColor=white)](https://pm.adebam.net/predict/)
 [![View Source](https://img.shields.io/badge/VIEW_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adebam/DataBricks_Predictive_Maintenance)
 
 **Stack:** `Python` `Databricks` `PySpark` `Delta Lake` `MLflow` `Scikit-learn` `AWS` `GitHub Actions` `Plotly Dash` `FastAPI` `Streamlit`
